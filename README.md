@@ -22,6 +22,8 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Mugla](#-mugla)
 - [Sakarya](#-sakarya)
 - [Trabzon](#-trabzon)
+- [Tekirdağ](#-tekirdag)
+
 
 ## Web UI
 
@@ -155,3 +157,14 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Serdivan | Federal Coffee Co | Kahve / Restaurant | Çoğu masada mevcut                | Mevcut | 10-20 Mbps | 4/10                                           | 09.30 - 01.00    | @federalsakarya  | <https://goo.gl/maps/x5Pny1PNarqP5hRN6> | N/A    |
 | Serdivan | Tworoutes         | Cafe               | Çoğu masada mevcut                | Mevcut | 5-15 Mbps  | 6/10                                           | 10.00 - 01.00    | @tworoutes       | <https://goo.gl/maps/nm2uchFJdrwe78TbA> | N/A    |
 | Serdivan | Coffee And Study  | Cafe               | Çoğu masada mevcut, workspace var | Mevcut | 5-25 Mbps  | 5/10(`ayrıca kişisel çalışma alanı bulunuyor`) | 08.30 - 01.00    | N/A              | <https://goo.gl/maps/LVLfmT2sWkzAT7X78> | N/A    |
+
+## 📚 Tekirdağ
+
+| Konum    | İsim              | Kategoriler        | Priz                              | WIFI   | WIFI Hızı  | Gürültü Seviyesi                               | Çalışma Saatleri | Instagram Adresi | Harita                                  | Notlar |
+| -------- | ----------------- | ------------------ | --------------------------------- | ------ | ---------- | ---------------------------------------------- | ---------------- | ---------------- | --------------------------------------- | ------ |
+| Değirmenaltı | Terra & Mare | Kahve / Restaurant | Az Masada Mevcut                | Mevcut | 10-20 Mbps | 3/10                                           | 09.30 - 01.00    | N/A   | <https://goo.gl/maps/VavRH7YBxfSoy3u26> | Deniz Kenarı, Manzarası güzel.   |
+| Çorlu | DAily Dose | Kahve | İç alanda mevcut                | Mevcut | 10-20 Mbps | 2/10                                           | 09.30 - 23.00    | N/A   | <https://goo.gl/maps/MLWyCcZgo2g2mKe87> | Butik Kafe, Çikolatalı tatlıları harika!   |
+| Çorlu | Coffee Works | Kahve | İç alanda mevcut, workspace var                | Mevcut | 10-20 Mbps | 5/10                                           | 09.30 - 23.00    | N/A   | <https://goo.gl/maps/zUoz9dVdxctu8R59A> | İç alanı güzel, Workspace ve mini amfi sunum salonu mevcut   |
+
+
+
